@@ -47,7 +47,7 @@ print " %s============================%s|%s======================%s " % (C, B, C
 
 print " %sFB%s Group%s Hack %s12-09-2018%s (0:55)%s" % (W, B, R, C, Y, N)
 
-print " %sDevelop by: %sMohaMMed KhaLiD %s$$$%s Mr.NemrMedo%s" % (W, R, W, Y, N)
+print " %sDevelop by: %s cap ahmed %s$$$%s Mr.NemrMedo%s" % (W, R, W, Y, N)
 print "                      %sAnd %sMaNiSh%s" % (W, R, N)
 
 print " %sCode: %sPython%s" % (W, C, N)
